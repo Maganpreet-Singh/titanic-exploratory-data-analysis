@@ -28,7 +28,7 @@ This repository presents a comprehensive **Exploratory Data Analysis (EDA)** of 
 ├── Titanic EDA.ipynb
 ├── Titanic-Dataset.csv
 ├── README.md
-└── images/ (optional)
+└── images/
 ```
 
 ## ⭐ If you found this project useful, consider giving it a star!
